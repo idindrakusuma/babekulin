@@ -21,14 +21,13 @@ module.exports = {
       options: {
         name: `gatsby-starter-default`,
         short_name: `starter`,
-        start_url: `/`,
+        start_url: `https://indrakusuma.web.id/babekulin`,
         background_color: `#ffc929`,
         theme_color: `#ffc929`,
         display: `minimal-ui`,
         icon: `src/images/babekulin-logo.png`, // This path is relative to the root of the site.
       },
     },
-    `gatsby-plugin-offline`,
     `gatsby-plugin-emotion`,
   ],
 };
