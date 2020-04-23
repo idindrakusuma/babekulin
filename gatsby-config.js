@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/babekulin',
   siteMetadata: {
     title: `Babe Kuliner Food`,
     description: `Hallo, #eatBabe! Saat ini #BabeKulin menyediakan berbagai macam FROZEN FOOD!`,
