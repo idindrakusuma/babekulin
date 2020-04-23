@@ -16,7 +16,7 @@ function IndexPage() {
         <Profile />
         <Button
           text="Chat via Whatsapp"
-          link="https://wa.me/628112778189?text=Halo%20%40babekulin.food!%20saya%20mau%20pesan.."
+          link="https://wa.me/628112778189?text=Hallo%2C%20%23BabeKulin%20food!%20%23eatBabe%20mau%20pesan%20nih....."
         />
         <Footer />
       </Wrapper>
